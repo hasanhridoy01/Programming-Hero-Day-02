@@ -1,0 +1,23 @@
+.Blog{
+    margin: 60px auto;
+    width: 50%;
+    border: 15px solid yellow;
+    padding: 20px;
+    background-color: lightblue;
+}
+h2{
+    font-family: inherit;
+}
+p{
+    text-align: justify;
+    font-family: sans-serif;
+}
+.paragrap{
+    display: inline;
+}
+.heading{
+    display: inline-block;
+}
+.help{
+    display: inline-block;
+}
