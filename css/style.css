@@ -21,3 +21,7 @@ p{
 .help{
     display: inline-block;
 }
+.name{
+    color: rgb(48, 48, 197);
+    text-align: center;
+}
